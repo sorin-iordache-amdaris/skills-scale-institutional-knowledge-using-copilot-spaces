@@ -18,6 +18,8 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+- Initial requirements or user research (if Business Analyst or UX Designer involved)
+- Technical feasibility assessment (if complex technical requirements)
 
 ## Project One-pager Template
 - Project name:
@@ -32,9 +34,13 @@ Whenever a new project idea or feature proposal is ready to be explored.
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Business Analyst consulted for requirements clarity (if applicable)
+- [ ] UX Designer consulted for user research needs (if applicable)
+- [ ] Technical Lead consulted for technical feasibility (if applicable)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Identify Scrum Master if using agile ceremonies
 
 ## Decision Gate
 Move to planning when:
