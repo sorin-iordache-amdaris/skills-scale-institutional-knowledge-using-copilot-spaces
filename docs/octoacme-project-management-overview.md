@@ -14,11 +14,17 @@ Applies to all cross-functional projects that deliver product features, services
 - Psychological safety: encourage feedback and learning.
 
 ## Core Roles
-- Project Manager (PM): coordinates delivery, schedules, risk, communications.
-- Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
-- Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- **Project Manager (PM)**: coordinates delivery, schedules, risk, communications.
+- **Product Manager (PdM)**: defines outcomes, prioritizes backlog, and measures success.
+- **Developers**: implement features, collaborate on design and testability.
+- **Scrum Master**: facilitates agile ceremonies, removes impediments, coaches team on best practices.
+- **Business Analyst**: clarifies requirements, defines acceptance criteria, bridges business and technical needs.
+- **UX Designer**: ensures user experience quality, creates designs and prototypes.
+- **Technical Lead**: provides technical direction, mentors developers, ensures quality standards.
+- **QA/Testing**: validate quality and acceptance criteria.
+- **Stakeholders**: provide inputs, feedback, and approvals; represent business units or user groups.
+
+For detailed role descriptions, see [OctoAcme Roles and Personas](octoacme-roles-and-personas.md) and the [Roles & Responsibility Matrix](octoacme-roles-responsibility-matrix.md).
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -37,8 +43,12 @@ Applies to all cross-functional projects that deliver product features, services
 
 ## Communication Cadence
 - Weekly sync between PM + PdM
-- Twice-weekly standups for delivery team (or as agreed)
-- Monthly stakeholder updates
+- Twice-weekly standups for delivery team (or as agreed), facilitated by Scrum Master
+- Sprint planning, reviews, and retrospectives led by Scrum Master
+- Technical design reviews and architecture discussions with Technical Lead
+- Requirements clarification sessions with Business Analyst
+- Design reviews and user research sessions with UX Designer
+- Monthly stakeholder updates and milestone reviews
 - Ad-hoc escalations as needed
 
 ## How to use these docs

@@ -14,14 +14,20 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Release notes drafted
 - Rollback / mitigation plan documented
 - Smoke tests prepared
+- Technical Lead approval on architecture and code quality
+- UX Designer sign-off on user-facing changes (if applicable)
+- Business Analyst validation of delivered requirements
+- Stakeholder review and sign-off as required
 
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)
 - [ ] Backup or snapshot (if applicable)
 - [ ] Deploy to staging and run smoke tests
+- [ ] Technical Lead review of deployment readiness
 - [ ] Deploy to production (automated pipeline preferred)
-- [ ] Run post-deploy verifications
+- [ ] Run post-deploy verifications (Technical Lead validates)
 - [ ] Announce release to stakeholders and support
+- [ ] UX Designer monitors user feedback on UI changes (if applicable)
 
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:
