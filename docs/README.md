@@ -20,3 +20,11 @@ Key **personas** driving these projects include the Product Manager (PdM), who d
 - [Release & Deployment Guide](octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](octoacme-roles-and-personas.md)
+
+## Templates and Checklists
+
+- [Templates Directory](templates/) - Role-specific templates and checklists to support project execution
+  - Business Analyst Requirements Template
+  - UX Design Handoff Checklist
+  - Technical Decision Record Template
+  - Sprint Retrospective Template
