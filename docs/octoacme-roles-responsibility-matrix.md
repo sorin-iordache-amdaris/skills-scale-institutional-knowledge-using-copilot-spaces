@@ -60,7 +60,7 @@ This matrix provides a quick reference for understanding who is responsible for 
 
 ## Notes
 - This matrix represents typical responsibilities and may vary by project size, team structure, or organizational context.
-- Multiple roles can be Responsible for the same activity when collaboration is required.
+- **Multiple Responsible roles**: Some activities require collaboration between roles (e.g., "Create project backlog" involves both PdM and Business Analyst). In these cases, both parties share responsibility for completion and should coordinate closely. The team should agree on a primary coordinator for such activities.
 - Adapt the matrix to fit your team's needs, but maintain clarity on who has final decision authority (Approver).
 - Review and update this matrix during project retrospectives if role boundaries need adjustment.
 
